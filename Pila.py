@@ -11,5 +11,7 @@ n=pila.pop()
 
 print(f"sacando el elemento  {n}")
 
+
+
 #mostrar Pila
 print(pila)
