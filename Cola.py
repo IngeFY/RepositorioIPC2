@@ -11,5 +11,6 @@ cola.append("Alumno6")
 n=cola.pop(0)
 print(f"atendiento a {n}")
 
+
 n=cola.pop(0)
 print(f"atendiento a {n}")
